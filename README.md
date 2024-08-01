@@ -17,6 +17,8 @@ you need to delete and change some stuff there just follow the images
 ![image](https://github.com/user-attachments/assets/78cf6132-b766-4351-b9fd-0ed86c858855)
 
 
+and lastly change the edition to metadataId and image to imageRef
+
 and the result should be like this same as the example metadata of highlightxyz
 ![image](https://github.com/user-attachments/assets/b9aaf439-b194-4236-8772-93678ce336c7)
 
