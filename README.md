@@ -1,3 +1,29 @@
+# This is compatible with Series deployment in highlight.xyz
+
+![image](https://github.com/user-attachments/assets/178baf5d-7a50-44dc-857f-8645c52e957b)
+
+You need to change more things in the metadata file to make the metadata adjusted and compatible upon uploading your asset
+
+I use VS Code on this part
+
+open your metadata json file and go to the search in VS code tab
+
+you need to delete and change some stuff there just follow the images 
+![image](https://github.com/user-attachments/assets/27aefddc-ba7c-41f7-99e2-36086068886f)
+![image](https://github.com/user-attachments/assets/e503f645-b64f-45f6-a2a5-e408315e0b82)
+![image](https://github.com/user-attachments/assets/5e165731-ecfd-4586-8a93-b158dd4362d1)
+![image](https://github.com/user-attachments/assets/13e2952e-a971-490a-98a9-517afed3a906)
+![image](https://github.com/user-attachments/assets/42cb4c9c-69d8-45f0-8761-7aa06be20aed)
+![image](https://github.com/user-attachments/assets/78cf6132-b766-4351-b9fd-0ed86c858855)
+
+
+and the result should be like this same as the example metadata of highlightxyz
+![image](https://github.com/user-attachments/assets/b9aaf439-b194-4236-8772-93678ce336c7)
+
+
+
+
+
 # Welcome to HashLips 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
